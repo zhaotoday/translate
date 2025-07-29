@@ -8,3 +8,4 @@
 - [deeplx](https://github.com/un-ts/deeplx)
 - [DeepLX](https://github.com/OwO-Network/DeepLX)
 - [DeeplxFile](https://github.com/infrost/DeeplxFile)
+- [DeepLX](https://github.com/xixu-me/DeepLX)
