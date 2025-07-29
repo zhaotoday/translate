@@ -7,3 +7,4 @@
 #### 开源
 - [deeplx](https://github.com/un-ts/deeplx)
 - [DeepLX](https://github.com/OwO-Network/DeepLX)
+- [DeeplxFile](https://github.com/infrost/DeeplxFile)
