@@ -11,3 +11,4 @@
 - [DeepLX](https://github.com/xixu-me/DeepLX)
 - [di18n](https://github.com/didi/di18n)
 - [mango-i18n-system](https://github.com/albertlin0923/mango-i18n-system)
+- [vue-i18n-extract](https://github.com/Spittal/vue-i18n-extract)
