@@ -9,3 +9,4 @@
 - [DeepLX](https://github.com/OwO-Network/DeepLX)
 - [DeeplxFile](https://github.com/infrost/DeeplxFile)
 - [DeepLX](https://github.com/xixu-me/DeepLX)
+- [di18n](https://github.com/didi/di18n)
