@@ -11,6 +11,7 @@
 - [DeepLX](https://github.com/xixu-me/DeepLX)
 - [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless)
 - [deeplx-serverless](https://github.com/lete114/deeplx-serverless)
+- [deeplx-pro](https://github.com/xiaozhou26/deeplx-pro)
 - [di18n](https://github.com/didi/di18n)
 - [mango-i18n-system](https://github.com/albertlin0923/mango-i18n-system)
 - [vue-i18n-extract](https://github.com/Spittal/vue-i18n-extract)
