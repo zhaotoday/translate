@@ -16,3 +16,4 @@
 - [mango-i18n-system](https://github.com/albertlin0923/mango-i18n-system)
 - [vue-i18n-extract](https://github.com/Spittal/vue-i18n-extract)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+- [STranslate](https://github.com/ZGGSONG/STranslate)
