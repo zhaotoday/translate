@@ -18,3 +18,4 @@
 - [vue-i18n-extract](https://github.com/Spittal/vue-i18n-extract)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 - [STranslate](https://github.com/ZGGSONG/STranslate)
+- [i18n-cli](https://github.com/IFreeOvO/i18n-cli)
