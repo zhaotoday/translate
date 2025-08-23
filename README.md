@@ -27,3 +27,4 @@
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 - [hinglish-AI-translator](https://github.com/byteom/hinglish-AI-translator)
 - [co-op-translator](https://azure.github.io/co-op-translator/translations/zh/)
+- [subtitle-translator](https://github.com/rockbenben/subtitle-translator)
