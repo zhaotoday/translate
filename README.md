@@ -28,3 +28,4 @@
 - [hinglish-AI-translator](https://github.com/byteom/hinglish-AI-translator)
 - [co-op-translator](https://azure.github.io/co-op-translator/translations/zh/)
 - [subtitle-translator](https://github.com/rockbenben/subtitle-translator)
+- [Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator)
