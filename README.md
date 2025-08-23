@@ -29,3 +29,4 @@
 - [co-op-translator](https://azure.github.io/co-op-translator/translations/zh/)
 - [subtitle-translator](https://github.com/rockbenben/subtitle-translator)
 - [Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator)
+- [MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)
