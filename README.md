@@ -21,3 +21,4 @@
 - [i18n-cli](https://github.com/IFreeOvO/i18n-cli)
 - [i18n-auto-extractor](https://github.com/qianyuanjia/i18n-auto-extractor)
 - [kiss-translator](https://github.com/fishjar/kiss-translator)
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
