@@ -30,3 +30,4 @@
 - [subtitle-translator](https://github.com/rockbenben/subtitle-translator)
 - [Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator)
 - [MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)
+- [sc-translator-crx](https://github.com/chunibyocola/sc-translator-crx)
