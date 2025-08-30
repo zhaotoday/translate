@@ -1,4 +1,5 @@
 #### 产品
+- [scispace](https://scispace.com/paraphraser)
 - [DeepL 翻译](https://www.deepl.com/zh/translator/files)
 - [沉浸式翻译](https://app.immersivetranslate.com/)
 - [libretranslate](https://libretranslate.com/)
