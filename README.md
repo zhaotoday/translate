@@ -8,6 +8,7 @@
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
 
 #### 开源
+- [GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck)
 - [comic-translate](https://github.com/ogkalu2/comic-translate)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 - [simple-translate](https://github.com/sienori/simple-translate)
