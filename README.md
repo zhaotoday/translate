@@ -8,6 +8,7 @@
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
 
 #### 开源
+- [argos-translate](https://github.com/argosopentech/argos-translate)
 - [xnx3/translate](https://github.com/xnx3/translate)
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 - [sign/translate](https://github.com/sign/translate)
