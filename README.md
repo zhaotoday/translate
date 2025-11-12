@@ -8,6 +8,7 @@
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
 
 #### 开源
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner)
 - [i18n-pro](https://github.com/i18n-pro)
 - [i18next-scanner](https://github.com/i18next/i18next-scanner)
 - [fe-js-utils](https://www.npmjs.com/package/fe-js-utils)
