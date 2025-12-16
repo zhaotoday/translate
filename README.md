@@ -10,6 +10,7 @@
 #### 开源
 - [qwerty-learner](https://github.com/RealKai42/qwerty-learner)
 - [i18n-pro](https://github.com/i18n-pro)
+- [i18next-cli](https://github.com/i18next/i18next-cli)
 - [i18next-scanner](https://github.com/i18next/i18next-scanner)
 - [fe-js-utils](https://www.npmjs.com/package/fe-js-utils)
 - [argos-translate](https://github.com/argosopentech/argos-translate)
