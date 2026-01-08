@@ -8,6 +8,7 @@
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
 
 #### 开源
+- [docutranslate](https://github.com/xunbu/docutranslate)
 - [TranslateBookWithLLM](https://github.com/hydropix/TranslateBookWithLLM)
 - [stranslate](https://stranslate.zggsong.com/)
 - [PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next)
