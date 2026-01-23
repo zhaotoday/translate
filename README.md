@@ -6,6 +6,7 @@
 
 #### 文章
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
+- [多语言维护太痛苦？我自研了一个翻译自动化 CLI 工具](https://juejin.cn/post/7554117742887993407)
 
 #### 开源
 - [docutranslate](https://github.com/xunbu/docutranslate)
