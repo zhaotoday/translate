@@ -9,6 +9,7 @@
 - [多语言维护太痛苦？我自研了一个翻译自动化 CLI 工具](https://juejin.cn/post/7554117742887993407)
 
 #### 开源
+- [i18n-cli](https://github.com/zdocapp/i18n-cli/blob/main/packages/i18n-cli/README.md)
 - [docutranslate](https://github.com/xunbu/docutranslate)
 - [TranslateBookWithLLM](https://github.com/hydropix/TranslateBookWithLLM)
 - [stranslate](https://stranslate.zggsong.com/)
