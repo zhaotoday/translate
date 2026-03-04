@@ -5,6 +5,7 @@
 - [libretranslate](https://libretranslate.com/)
 
 #### 文章
+- [前端国际化（i18n）体系设计与工程化落地](https://juejin.cn/post/7603030564837228598)
 - [网页翻译终极方案:DeepLX](https://blog.csdn.net/u010066597/article/details/138554411)
 - [多语言维护太痛苦？我自研了一个翻译自动化 CLI 工具](https://juejin.cn/post/7554117742887993407)
 
